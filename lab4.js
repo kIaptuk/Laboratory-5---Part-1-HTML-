@@ -61,7 +61,7 @@ setTimeout(() => {
 
 document.getElementById("modal").style.display = "flex";
 
-}, 10000);
+}, 60000);
 
 
 
